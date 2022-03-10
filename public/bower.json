@@ -1,0 +1,10 @@
+{
+  "name": "Blogs",
+  "authors": [
+    "Abraham Reyes <zazazazeqw@gmail.com>"
+  ],
+  "description": "Paquetes del frontend para el proyecto blogs",
+  "main": "",
+  "license": "MIT",
+  "homepage": "Blogs.app"
+}
